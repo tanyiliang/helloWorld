@@ -1,4 +1,4 @@
 helloWorld
 ==========
 
-this is real first product
+this is the first demo
