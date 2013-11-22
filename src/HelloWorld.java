@@ -1,4 +1,4 @@
-/*加点注释*/
+/*加点注释 heloworld*/
 public class HelloWorld {
 
 	public static void main(String[] args) {
